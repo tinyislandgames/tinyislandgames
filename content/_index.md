@@ -6,9 +6,9 @@ disableShare: true
 
 # Hi there!
 
-We are a small indie studio based in Lutruwita/Tasmania. Our aim is to make good games in an ethical and sustainable way - which at this stage of our journey means we work dayjobs and mostly work on our games for at most a couple of hours per week.
+We are a small indie studio based in Lutruwita/Tasmania. Our goal is to make games sustainably, working on our projects one day a week.
 
-We have release our first title, Plains of Havoc into early access on Steam.
+We have released our first title, Plains of Havoc into early access on Steam.
 
 {{< steam_widget 2212550 >}}
 
