@@ -1,6 +1,5 @@
 baseURL: "https://tinyislandgames.com"
 title: Tiny Island Games
-paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -89,18 +88,14 @@ menu:
       name: Home
       url: /
       weight: 1
-    - identifier: plains_of_havoc
-      name: Plains of Havoc
-      url: /plains_of_havoc/
-      weight: 10
+    - identifier: games
+      name: Games
+      url: /games/
+      weight: 5
     - identifier: devlog
       name: Devlog
       url: /devlog/
-      weight: 20
-    - identifier: presskit
-      name: Presskit
-      url: /presskit/
-      weight: 25        
+      weight: 20   
     - identifier: about_us
       name: About Us
       url: /about_us/

@@ -1,8 +1,12 @@
-body {
-	padding: 15px 0;
+#presskit {
+	padding: 0 15px 0 0;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 0.9em;
 	line-height:1.6em;
+}
+
+#presskit h1{
+	margin: 0 0 10px 0;
 }
 
 #content h2 {

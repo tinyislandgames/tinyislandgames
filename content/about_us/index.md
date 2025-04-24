@@ -5,8 +5,8 @@ hideMeta: true
 disableShare: true
 ---
 
+Located in Lutruwita/Tasmania.
 
+We're a small studio focused on sustainable game development. We're trialling a "one-day-per-week" gamedev approach due to the risky nature of making games full-time. We each dedicate around one day per week making games and keeping our dayjobs for financial security. While this does slow down development, it enables us to make games that may flop without affecting our financial stability.
 
-Located in Hobart, Tasmania, Tiny Island Games is an indie games studio currently focused on making our first game, [Plains of Havoc](../plains_of_havoc/). We founded the studio with the growth of the local games industry in mind, working closely with the [Tasmanian Game Makers](https://tasgamemakers.com/) and [UtasPlay](https://www.utas.edu.au/built-digital-natural/ict/research/games-and-creative-technologies/utasplay) to organize local gamejams and meetups, as well as generally share our experience of starting an indie studio.
-
-Additionally we offer third year projects at the University of Tasmania to enable students to build up a major portfolio piece by the time they graduate, and if appropriate, offering to develop that project post-graduation into a fully released title.
+We founded the studio with the growth of the local games industry in mind, working closely with the [Tasmanian Game Makers](https://tasgamemakers.com/) and [UtasPlay](https://www.utas.edu.au/built-digital-natural/ict/research/games-and-creative-technologies/utasplay) to organize local gamejams and meetups, as well as generally share our experience of starting and running an indie studio.

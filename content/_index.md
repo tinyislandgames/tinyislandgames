@@ -4,8 +4,12 @@ hideMeta: true
 disableShare: true
 ---
 
-# Tiny Island Games
+# Hi there!
 
-Tiny Island Games is a small development studio based in Hobart, Australia. It was founded by [Michael](https://michaelhinz.dev) to bridge the gap between hobbyist and professional game development.
+We are a small indie studio based in Hobart, Tasmania. Our aim is to make good games in an ethical and sustainable way - which at this stage of our journey means we work dayjobs and mostly work on our games for at most a couple of hours per week.
 
-It is our goal to create a sustainable studio that’s [focused on growing the local Tasmanian games industry](./about_us/). We’re currently developing our first original title, Plains of Havoc, which is due to release in late 2024.
+We have release our first title, Plains of Havoc into early access on Steam.
+
+{{< steam_widget 2212550 >}}
+
+Oh, and we also build and host the occasional website.
