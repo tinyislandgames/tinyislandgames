@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tinyislandgames.com.au/sitemap.xml

@@ -1,0 +1,16 @@
+{{ define "main" }}
+<header class="post-header">
+  {{ partial "breadcrumbs.html" }}
+  <h1 class="post-title-center">
+    {{ .Title }}
+    {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
+  </h1>
+</header>
+{{- if .Content }}
+<div class="post-content">
+  {{- if not (.Param "disableAnchoredHeadings") }}
+  {{- partial "anchored_headings.html" .Content -}}
+  {{- else }}{{ .Content }}{{ end }}
+</div>
+{{- end }}
+{{ end }}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Plains of Havoc on Tiny Island Games</title>
+    <link>https://tinyislandgames.com.au/tags/plains-of-havoc/</link>
+    <description>Recent content in Plains of Havoc on Tiny Island Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Nov 2024 18:14:27 +1100</lastBuildDate>
+    <atom:link href="https://tinyislandgames.com.au/tags/plains-of-havoc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build 212 - Difficulty Adjustment</title>
+      <link>https://tinyislandgames.com.au/devlog/plains_of_havoc/patch_notes/release_212/</link>
+      <pubDate>Sun, 10 Nov 2024 18:14:27 +1100</pubDate>
+      <guid>https://tinyislandgames.com.au/devlog/plains_of_havoc/patch_notes/release_212/</guid>
+      <description>Bugfixes Fixed text on Greedy Hands Fixed Arc Splitter not properly halving arcs when splitting Fixed &amp;ldquo;Phantom Flames&amp;rdquo; burning when the enemy had died Fixed a bug where Overgrown could be chosen without its prerequisite Fixed an infinite-level bug Fixed settings menu navigation Fixed Embrittle calculation causing enemies to be one-shot Fixed wrong Draugr&amp;rsquo;s spawning after defeating the boss in Svartalfheim Performance Improvements Fixed lag spikes due to a couple of audio files not pre-loading at game start Various other small performance improvements Additions Added a new achievement Added Leaderboard buttons to toggle between Top 100 and your own rank Added a custom cursor Changes Capped Corpse Explosion damage at max health of the exploding enemy Flying enemies can now spawn in the void Changed overall enemy difficult scaling Embrittle damage per stack from 0.</description>
+    </item>
+    <item>
+      <title>Build 202 - Rerolls &amp; Skilltree</title>
+      <link>https://tinyislandgames.com.au/devlog/plains_of_havoc/patch_notes/release_202/</link>
+      <pubDate>Tue, 05 Nov 2024 12:10:00 +1100</pubDate>
+      <guid>https://tinyislandgames.com.au/devlog/plains_of_havoc/patch_notes/release_202/</guid>
+      <description>Bugfixes Sword multi-hits were preventing sword from attacking as fast as it should be We are aware of some players experiencing crashes when using a controller, this is a confirmed Unity issue and will be fixed with their next update this week Performance Improvements Improved experience orb performance Improved chain-lightning performance Additions Added Svartalfheim Slake Draugr model Added Combat Roll skill node Changes Counter from 15% attack damage while invulnerable (1 rank) to 10% attack damage while invulnerable (2 ranks) Starting rerolls reduced from 2 to 1 Adjusted the skilltree, you can now unlock up to 18 points to spend!</description>
+    </item>
+    <item>
+      <title>Build 195 - First Early Access Patch!</title>
+      <link>https://tinyislandgames.com.au/devlog/plains_of_havoc/patch_notes/release_195/</link>
+      <pubDate>Sun, 03 Nov 2024 12:10:00 +1100</pubDate>
+      <guid>https://tinyislandgames.com.au/devlog/plains_of_havoc/patch_notes/release_195/</guid>
+      <description>Bugfixes Time survived now also accounts for full hours (I didn&amp;rsquo;t expect people to survive for longer than an hour) Spam-switching weapons no longer breaks attacking Adjusted experience requirements for the skill tree Overgrown no longer leaves you at 0.5hp, making it look like you&amp;rsquo;re alive with 0 hp Multistrike 2 now shows the icon of what it unlocks next Fixed Fearsome 2 unlock icon Game can no longer unpause when getting damaged right as you level up, causing an unpaused level-up screen Additions Health regeneration animation for clotting Added a sound effect for when enemies receive upgrades </description>
+    </item>
+    <item>
+      <title>Build 144 - Hearty Party</title>
+      <link>https://tinyislandgames.com.au/devlog/plains_of_havoc/patch_notes/release_144/</link>
+      <pubDate>Thu, 11 Apr 2024 14:22:28 +1100</pubDate>
+      <guid>https://tinyislandgames.com.au/devlog/plains_of_havoc/patch_notes/release_144/</guid>
+      <description>Additions Hearty Meal Heal one heart if you&amp;rsquo;re missing health, gain one heart if you&amp;rsquo;re at full health Knockback Resistance Enemies can become resistant to knockbacks at later stages Level Ups Made level ups safer Changes Blessing of Jotunheim Blessing of Jotunheim now upgrades damage, movement speed and attack speed based on missing health Embrittle Reduced damage from 1% to 0.25% per stack Fixes Enable multithreaded physics Weapons now swap on being picked up Adjusted enemy stats and buffs they receive Audio Sound Effects Added bow atack effect Added weapon pickup effect Added enemy hurt effect Fix audio effects overlapping Leaderboard The leaderboard has been reset due to significant gameplay/balancing changes.</description>
+    </item>
+    <item>
+      <title>Build 141 - Lots and lots of blood!</title>
+      <link>https://tinyislandgames.com.au/devlog/plains_of_havoc/patch_notes/release_141/</link>
+      <pubDate>Mon, 01 Apr 2024 14:22:28 +1100</pubDate>
+      <guid>https://tinyislandgames.com.au/devlog/plains_of_havoc/patch_notes/release_141/</guid>
+      <description>Additions Burst Strike Accumulate attack charges over time. Using your Ability discharges stored attacks.
+Visuals Added blood splats Optimized Chain Lightning and Burn effects Improved upgrade cards Adapt UI for non-16:9 resolutions Fixes Fixed Deep Pockets not resetting properly Fixed Berserker sometimes reducing attack speed Fixed Fearsome sometimes not resetting Updated fonts in various menus to be more consistent Replaced odd X close buttons with actual buttons Made experience orbs change through more colour ranges to better indicate their worth Performance enhancements for damage pop-ups, corpse explosions and lightning Recurring &amp;ldquo;Blessing of&amp;rdquo; type upgrades only show up when all upgrades in that tree have been unlocked Fix Corpse Explosion Leaderboard The leaderboard has been reset due to significant gameplay/balancing changes.</description>
+    </item>
+    <item>
+      <title>Build 131 - First Patch Notes!</title>
+      <link>https://tinyislandgames.com.au/devlog/plains_of_havoc/patch_notes/release_131/</link>
+      <pubDate>Sun, 24 Mar 2024 14:22:28 +1100</pubDate>
+      <guid>https://tinyislandgames.com.au/devlog/plains_of_havoc/patch_notes/release_131/</guid>
+      <description>Changes Berserker Berserker now works off of missing health, instead of granting a stack every time the player takes damage. Clotting Clotting&amp;rsquo;s timer is no longer reduced by killing enemies, but instead by the amount of empty hearts. Each empty heart increases the timer to tick down 100% faster. The timer only ticks down if you&amp;rsquo;re missing at least one heart. Base time increased from 5 minutes to 7 minutes. Fixes Fixed Fearsome not resetting on next runs Fixed Movement speed bugs with Panic, Dashig and Ingenious Fixed Berserker sometimes reducing attack speed Fixed sfx not playing until the second time Fixed Screenshake setting not saving Fixed being able to exit out of the game-over screen and keep playing (lol) Leaderboard The leaderboard has been reset due to significant gameplay/balancing changes.</description>
+    </item>
+  </channel>
+</rss>

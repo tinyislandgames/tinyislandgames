@@ -1,0 +1,123 @@
+baseURL: "https://tinyislandgames.com.au/"
+title: Tiny Island Games
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: G-SMXNWFJHBS
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Tiny Island Games
+  description: "Tiny Island Games description"
+  keywords: [Gamedev]
+  author: "Michael Hinz"
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    # favicon: "<link / abs url>"
+    # favicon16x16: "<link / abs url>"
+    # favicon32x32: "<link / abs url>"
+    # apple_touch_icon: "<link / abs url>"
+    # safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Tiny Island Games"
+    icon: /Tiny Island Games Circle.png
+    iconHeight: 35
+
+  # # home-info mode
+  # homeInfoParams:
+  #   Title: "Tiny Island Games"
+
+  socialIcons:
+    - name: bluesky
+      url: "https://tinyislandgames.bsky.social"
+    - name: twitter
+      url: "https://twitter.com/TinyIslandGames"
+    - name: tiktok
+      url: "https://www.tiktok.com/@tinyislandgames"
+
+  shareButtons: # ["twitter"] # To customize which share buttons to be enabled on page
+
+  #editPost:
+  #  URL: "mailto:michael@tinyislandgames.com.au"
+  #  Text: "Suggest Changes" # edit text
+  #  appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: plains_of_havoc
+      name: Plains of Havoc
+      url: /plains_of_havoc/
+      weight: 10
+    - identifier: devlog
+      name: Devlog
+      url: /devlog/
+      weight: 20
+    - identifier: presskit
+      name: Presskit
+      url: /presskit/
+      weight: 25        
+    - identifier: about_us
+      name: About Us
+      url: /about_us/
+      weight: 30
+    - identifier: privacy
+      name: Privacy Policy
+      url: /privacy_policy/
+      weight: 40
+
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
