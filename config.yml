@@ -7,7 +7,9 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-SMXNWFJHBS
+services:
+  googleAnalytics:
+    id: G-SMXNWFJHBS
 
 minify:
   disableXML: true
