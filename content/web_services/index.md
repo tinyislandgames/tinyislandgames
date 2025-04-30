@@ -65,7 +65,7 @@ This isn't strictly required, and sometimes won't make sense for a particular ty
 
 ---
 
-If you're just starting out you may not yet have registered a domain name (e.g. [tinyislandgames.com](https://tinyislandgames.com)). Deciding on one is dependant on a couple of factors and important to get right. While it is possible to change this after the fact, it is a little bit of work but also can effectively reset your google search ranking.
+If you're just starting out you may not yet have registered a domain name (e.g. [tinyislandgames.com](https://tinyislandgames.com)). Deciding on one is dependant on a couple of factors and important to get right. While it is possible to change this after the fact, it is a little bit of work and can effectively reset your google search ranking.
 
 We can help you pick out and purchase the domain name, however we encourage you to register it in your own name. It's a little bit like a property title deed, whoever has the rights to it can do what they want with it. Most registrars (fancy name for Domain Landlords) have functionality to delegate access of your domain name an external party (such as ourselves), while you retain ultimate ownership over it.
 
