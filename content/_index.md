@@ -15,3 +15,5 @@ We have released our first title, Plains of Havoc into early access on Steam.
 Oh, and we also build and host the occasional website.
 
 > Contact us at [michael@tinyislandgames.com](mailto:michael@tinyislandgames.com)
+
+> Subscribe to our [Newsletter Here](https://news.tinyislandgames.com)
