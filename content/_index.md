@@ -8,11 +8,9 @@ disableShare: true
 
 We are a small indie studio based in Lutruwita/Tasmania. Our goal is to make games sustainably, working on our projects one day a week.
 
-We have released our first title, Plains of Havoc into early access on Steam.
+We have just launched our brand new Steam page for [Red Harvest](https://store.steampowered.com/app/3574040/?utm_source=tigwebsite&utm_medium=link&utm_content=homepage), wishlist it now!
 
-{{< steam_widget 2212550 "Plains of Havoc" >}}
-
-Oh, and we also build and host the occasional website.
+{{< steam_widget 3574040 >}}
 
 > Contact us at [michael@tinyislandgames.com](mailto:michael@tinyislandgames.com)
 

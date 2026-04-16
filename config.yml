@@ -97,11 +97,7 @@ menu:
     - identifier: devlog
       name: Devlog
       url: /devlog/
-      weight: 20
-    - identifier: web_services
-      name: Web Services
-      url: /web_services/
-      weight: 25   
+      weight: 20   
     - identifier: about_us
       name: About Us
       url: /about_us/
